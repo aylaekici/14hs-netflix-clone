@@ -1,4 +1,4 @@
-# 14hs-netflix-clone
+# netflix-clone
 
 #In this website project HTML and CSS3 was used
 
